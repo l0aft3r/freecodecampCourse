@@ -1,0 +1,1 @@
+In this repository I'll upload the projects that I make while doing the freecodecamp course.
